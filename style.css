@@ -53,6 +53,10 @@ input{
 ::placeholder{
     color: hsl(249, 10%, 26%);
 }
+input:focus{
+    outline: none;
+    box-shadow: none;
+}
 .input-control input:focus{
     outline: 0;
     border: 2px solid hsl(248, 32%, 49%);
