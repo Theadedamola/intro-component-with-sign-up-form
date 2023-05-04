@@ -134,7 +134,7 @@ span{
 }
 @media (min-width: 768px) and (max-width: 1023px){
     body{
-        background-image: url(".../images/bg-intro-mobile.png");
+        background-image: url("./images/bg-intro-mobile.png");
     }
     .container{
         margin: 14% 8%;
@@ -150,7 +150,7 @@ span{
 }
 @media (min-width: 425px) and (max-width: 767px){
     body{
-        background-image: url(".../images/bg-intro-mobile.png");
+        background-image: url("./images/bg-intro-mobile.png");
     }
     .container{
         margin: 16% 8%;
@@ -169,7 +169,7 @@ span{
 }
 @media (min-width: 375px) and (max-width: 424px){
     body{
-        background-image: url(".../images/bg-intro-mobile.png");
+        background-image: url("./images/bg-intro-mobile.png");
     }
     .container{
         margin: 16% 8%;
@@ -191,7 +191,7 @@ span{
 }
 @media (min-width: 320px) and (max-width: 374px){
     body{
-        background-image: url(".../images/bg-intro-mobile.png");
+        background-image: url("./images/bg-intro-mobile.png");
     }
     .container{
         margin: 16% 8%;
